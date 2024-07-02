@@ -8,7 +8,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${lato.className} antialiased`}>{children}</body>
+      <body className={`${lato.className} bg-slate-950 antialiased`}>
+        {children}
+      </body>
     </html>
   );
 }
