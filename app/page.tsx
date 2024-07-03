@@ -14,7 +14,7 @@ export default function Page() {
           <p className={`text-xl text-gray-800 md:text-3xl md:leading-normal`}>
             <strong>Welcome to Zen.</strong>
           </p>
-          <p>
+          <p className='text-gray-800'>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore
             ipsam aliquam necessitatibus magnam aspernatur tempora, aperiam
             eaque quisquam voluptatem voluptatibus.
