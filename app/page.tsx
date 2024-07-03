@@ -29,7 +29,8 @@ export default function Page() {
             href="/dashboard"
             className="flex items-center gap-5 self-center rounded-lg bg-orange-500 px-6 py-3 text-sm font-medium text-black transition-colors hover:bg-blue-400 md:text-base"
           >
-            <span>Dashboard</span> <ArrowRightIcon className="w-5 md:w-6" />
+            <span>Go to dashboard</span>{' '}
+            <ArrowRightIcon className="w-5 md:w-6" />
           </Link>
         </div>
         <div className="mx-auto flex items-center justify-center p-6 md:w-4/5 md:px-28 md:py-12">
