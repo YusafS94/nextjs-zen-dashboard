@@ -9,12 +9,12 @@ export default function Page() {
     <main className="flex min-h-screen flex-col p-6">
       <div className={styles.shape}>{/* <AcmeLogo /> */}</div>
       <div className="mt-4 flex grow flex-col gap-4">
-        <div className="mx-auto flex flex-col items-center justify-center gap-6 rounded-lg bg-orange-50 px-6 py-10 text-center md:w-2/5 md:px-20">
+        <div className="mx-auto flex flex-col items-center justify-center gap-6 rounded-lg bg-blue-50 px-6 py-10 text-center md:w-2/5 md:px-20">
           <div className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent" />
           <p className={`text-xl text-gray-800 md:text-3xl md:leading-normal`}>
             <strong>Welcome to Zen.</strong>
           </p>
-          <p className='text-gray-800'>
+          <p className="text-gray-800">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore
             ipsam aliquam necessitatibus magnam aspernatur tempora, aperiam
             eaque quisquam voluptatem voluptatibus.
