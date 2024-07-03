@@ -1,8 +1,4 @@
-## Next.js App Router Course - Starter
-
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Zen dashboard, built in Next.js
 
 This is a dashboard project I created from the Next.js 14 tutorial (https://nextjs.org/learn/dashboard-app). The idea here was to learn the framework by applying the principles to project of a different name, so that the concepts would stick better.
 
